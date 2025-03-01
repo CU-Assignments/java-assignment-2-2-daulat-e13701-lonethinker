@@ -1,0 +1,55 @@
+PROBLEM 1: Integer Sum Calculator with Autoboxing and Unboxing
+
+Enter numbers (type 'done' to finish):
+5
+ten
+15
+done
+Invalid number format: ten
+The sum of the list is: 20
+
+
+PROBLEM 2: Serialize and Deserialize a Student Object
+
+Enter Student ID: 11111
+Enter Student Name: Alice Johnson
+Enter Student GPA: 4.0
+Student object has been serialized and saved to file.
+Student object has been deserialized.
+Deserialized Student Details:
+Student ID: 11111, Name: Alice Johnson, GPA: 4.0
+
+
+PROBLEM 3: Menu-based Application to Manage Employees through File Management
+
+Menu:
+1. Add Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 2
+No employees found.
+
+Menu:
+1. Add Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 1
+Enter Employee ID: 1003
+Enter Employee Name: Alice Johnson
+Enter Designation: HR
+Enter Salary: 45000.0
+Employee added successfully!
+
+Menu:
+1. Add Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 2
+Employee ID: 1003, Name: Alice Johnson, Designation: HR, Salary: 45000.0
+
+Menu:
+1. Add Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 3
+Exiting program...
